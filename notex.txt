@@ -1,0 +1,6 @@
+insert into course(id, name, author)
+values(1, 'JPAA', 'In28minutes');
+
+SELECT * FROM COURSE
+
+Delete from course where id=1
